@@ -1,0 +1,5 @@
+The RNN workshop explores basic sequence models.
+We start from n-gram language models and gradually move to recurrent ideas.
+Students practice with PyTorch and build character-level generators.
+Recurrent networks struggle with very long-term dependencies without gating.
+Experimenting with simple datasets helps reveal the model behavior.
